@@ -1,4 +1,4 @@
--- loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+-- loadstring(game:HttpGet('https://raw.githubusercontent.com/C0dexDev/gradletemplate/refs/heads/main/exp.lua'))()
 --//Variables
 local Players = game:GetService("Players")
 local TweenService = game:GetService("TweenService")
