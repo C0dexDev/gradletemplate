@@ -1,3 +1,4 @@
+print("V1)
 -- loadstring(game:HttpGet('https://raw.githubusercontent.com/C0dexDev/gradletemplate/refs/heads/main/exp.lua'))()
 --//Variables
 local Players = game:GetService("Players")
